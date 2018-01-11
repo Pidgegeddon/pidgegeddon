@@ -2,9 +2,12 @@ body{
 	background-color: black;
 }
 h1{
-	color: green;
+	color: lime;
 	text-align: center;
+	font-family: "Sans-serif", Monospace;
 }
 p{
 	color: lime;
+	text-align: center;
+	font-family: "Sans-serif", Monospace;
 }
